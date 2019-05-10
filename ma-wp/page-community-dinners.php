@@ -13,14 +13,13 @@
   <section class="slider-section">
     <div class="slide-04">
       <div class="ar-slide-item overlay-none" style="background:url(https://mill-all.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-25-at-1.53.03-PM.png) 0 0 no-repeat; background-repeat: space;"></div>
-
       <div class="container">
         <div class="row">
           <div class="col-md-7"><br>
             <h1 class="blue-title">Community Dinners</h1>
             <h3 class="about-article-heading">
               Host an Executive Dinner
-              <h2 class="black-subtitle">Inspiring Mutual Collaboration and Revealing<br>
+              <h2 class="black-subtitle" style ="margin-top: -25px;">Inspiring Mutual Collaboration and Revealing<br>
               Unprecedented Partnership Opportunities</h3></h2>
               <p>The Millennium Alliance Executive Leader Community Dinners offer unique opportunities for our executive members to connect in a meaningful and intimate setting while participating in open format discussions about evolving challenges facing the C-Level suite in today’s economy.</p>
               <p>The Community Dinners are private functions that bring together senior executives and policymakers from a variety of industries with the purpose of cultivating mutual collaboration and unprecedented partnership for dinner hosts.</p>
@@ -41,7 +40,7 @@
                             <div class="form-group">
                               <input type="text" value="" name="locations" placeholder="Location of Interest" class= "input-border"></div>
                               <div class="form-group">
-                                <input type="text" value="" name="titles_of_interest" placeholder="Targetted Titles" class="input-border"></div>
+                                <input type="text" value="" name="titles_of_interest" placeholder="Targeted Titles" class="input-border"></div>
                                 <div class="form-group">
                                   <input type="email" value="" name="email" placeholder="Email" class="input-border" required></div>
                                   <div class="form-group text-center mt-65">
@@ -61,17 +60,17 @@
                             <div class="row">
                               <div class="col-sm-12"></div>
                               <div class="row community-sec-01"> 
-                                <div class="col-md-1">
+                                <div class="col-md-2">
                                   <div class="community-image"><img src="https://mill-all.com/wp-content/themes/alliance/images/community-pic-01.png" alt=""> <div class="community-grey-box"></div></div>
                                 </div>
-                                <div class="col-md-9">
+                                <div class="col-md-10">
                                   <div class="community-content-01">
-                                    <h2 class="blue-title"><br><br>Key Benefits of Hosting an Executive Dinner</h2>
+                                    <h2 class="blue-title"><br><br>Key Benefits of Hosting an Executive Dinner:</h2>
                                     <p>
-                                      <ol>&#10004;<strong> Full-Service Planning &amp; Execution:</strong> The Millennium Alliance will manage all attendee acquisition, location sourcing and negotiation, signage, pre-dinner promotion, and any valet or parking costs for attendees
-                                        <li>&#10004;<strong> Delegate Contact Information:</strong>  Millennium will provide the sponsor with all contact details of executives following the dinner</li>
-                                        <li>&#10004;<strong> Priority Accounts:</strong> Millennium will work to secure top executives from the city of your choice based on your targeted job titles</li>
-                                        <li>&#10004;<strong> Food and Beverages:</strong> All food and beverage costs and any gratuities will be the
+                                      <ol>&#9733;<strong> Full-Service Planning &amp; Execution:</strong> The Millennium Alliance will manage all attendee acquisition, location sourcing and negotiation, signage, pre-dinner promotion, and any valet or parking costs for attendees
+                                        <li>&#9733;<strong> Delegate Contact Information:</strong>  Millennium will provide the sponsor with all contact details of executives following the dinner</li>
+                                        <li>&#9733;<strong> Priority Accounts:</strong> Millennium will work to secure top executives from the city of your choice based on your targeted job titles</li>
+                                        <li>&#9733;<strong> Food and Beverages:</strong> All food and beverage costs and any gratuities will be the
                                           <br>responsibility of The Millennium Alliance</li></ol>
                                         </p>
                                       </div>
@@ -80,10 +79,7 @@
                                       <p class="text-size-26">  
                                         <div class="col-md-6 pl-0"></div> 
                                         <div class="col-md-1"></div>
-                                        <div class="col-md-4 ex-edu-rt-content mobile-hide"> 
-                                          <div class = "key-benefits" style = "display: block; flex:1; position: fixed; margin-top: -150px; left: 645px;"><h2 class ="blue-title" style = "display: inline-block; position: fixed;"></h2>
-                                          </div>
-                                        </div>
+                                        <div class="col-md-4 ex-edu-rt-content mobile-hide"></div>
                                       </div>
                                     </div>
                                     <!-- community-sec-01 end here -->
@@ -112,8 +108,8 @@
                                       <div class="col-md-6 pl-0 ex-edu-lft-img">
                                         <img src="https://mill-all.com/wp-content/uploads/2019/04/alcoholic-beverages-beverage-celebration-2105511.jpg" alt=""></div>
                                         <div class="col-md-1"></div>
-                                        <div class="col-md-4 ex-edu-rt-content mobile-hide">
-                                          <h2 class="blue-title">Defining The Enviornment, Time, and Prospects</h2>
+                                        <div class="col-md-5 ex-edu-rt-content mobile-hide">
+                                          <h2 class="blue-title">Define The Enviornment, Time, and Prospects:</h2>
                                           <p>Step into your power by establishing direct connections with top prospects while strategically targeting professionals from within specific cities. Not only will you be able to determine the direction of the discussion, but our experienced team will work with you to identify key targets and ensure they are the executives who attend in the locations of your choice</p>
                                         </div>
                                         <div class="col-md-1"></div>
@@ -129,21 +125,21 @@
                                         <div class="col-md-4">
                                           <h4 class="blue-title">Executive Network Categories:</h4>
                                           <p> 
-                                            <ol><strong>&#10004; Security IT Leaders</strong> 
+                                            <ol><strong>&#9733; Security IT Leaders</strong> 
                                               <li>CISO, CISO, SVP Information Security, Chief Product Security Officer, Chief Risk Officer Head of Infosec, Chief Compliance Officer, SVP Cyber Security</li>
-                                              <li><strong>&#10004; Marketing Leaders</strong></li>
+                                              <li><strong>&#9733; Marketing Leaders</strong></li>
                                               <li>CMO, Chief Digital Officer, Chief Customer Officer, CXO, EVP/SVP of Marketing, VP of Marketing, VP of Digital </li>
                                             </ol><br><br><br>
                                             <h2 class="blue-title">Logistics:</h2>
                                             <p>
-                                              &#10004;The sponsor will pick a city and Millennium will<br> reserve a 5-star restaurant.<br>
-                                              &#10004;The Millennium Alliance will find 12 delegates<br> based on the sponsor's criteria<br>
-                                            &#10004;Increase sponsor sales by letting the sponsor take charge. </p>
+                                              &#9733; The sponsor will pick a city and Millennium will<br> reserve a 5-star restaurant.<br>
+                                              &#9733; The Millennium Alliance will find 12 delegates<br> based on the sponsor's criteria<br>
+                                            &#9733; Increase sponsor sales by letting the sponsor take charge. </p>
                                           </div>
                                           <div class="col-md-1"></div>
                                           <div class="col-md-6 pr-0 ex-edu-rt-img">
                                             <img src="https://sforce.co/2VKdrZY" alt="">
-                                            <h4 class = "blue-title"><br>Dinner Format</h4>
+                                            <h4 class = "blue-title"><br>Dinner Format:</h4>
                                             <p>
                                               <ol style = "solid;">
                                                 <li class ="agenda-time-sec">6:00 – 7:00 PM <strong>Guest Arrival – Cocktails &amp; Networking</strong></li> 
@@ -160,7 +156,7 @@
                                         <div class="container">
                                           <div class="row">
                                             <div class="col-md-12 text-center">
-                                              <p> To become a sponsor, please call Rob Davis at (646-315-6314) or email at <a href="mailto:rob-davis@mill-all.com">rob-davis@mill-all.com</a></p>
+                                              <p>To become a sponsor, please call Rob Davis at (646-315-6314) or email at <a href="mailto:rob-davis@mill-all.com">rob-davis@mill-all.com</a></p>
                                             </div>
                                           </div>
                                         </div>
